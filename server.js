@@ -20,7 +20,7 @@
  
 	http.createServer(onRequest).listen(8888);
  	console.log("Server has started."); 
-	呵呵大
+
  }
  
  exports.start = start;
